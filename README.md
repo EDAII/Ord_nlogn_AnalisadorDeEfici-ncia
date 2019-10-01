@@ -13,7 +13,7 @@ Não e necessario nenhuma instalação especifica, o unico requisito e que tenha
 
 
 ### Dependências do projeto
--Node Js
+- Node Js
 
 ### Como executar o projeto
 Linux
